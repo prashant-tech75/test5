@@ -8,7 +8,13 @@ public class Test5Application {
 
 	public static void main(String[] args) {
 		System.ut.println("Hello Prashant...")
+
+                 System.out.println("Hello World...");	
+
                 System.out.println("Hello Universe!!");
+
+		
+
 		SpringApplication.run(Test5Application.class, args);
 	}
 
